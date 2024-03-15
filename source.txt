@@ -1,2 +1,0 @@
-https://www.reddit.com/r/ramen/comments/inh945/guide_to_different_types_of_regional_ramen/
-https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/LlamaIndex/Multi_Modal.ipynb
